@@ -1,0 +1,18 @@
+D:\vishal project\mygame\mygame\bin\Debug\mygame.exe
+D:\vishal project\mygame\mygame\bin\Debug\mygame.pdb
+D:\vishal project\mygame\mygame\obj\Debug\mygame.csproj.AssemblyReference.cache
+D:\vishal project\mygame\mygame\obj\Debug\mygame.Form1.resources
+D:\vishal project\mygame\mygame\obj\Debug\mygame.Properties.Resources.resources
+D:\vishal project\mygame\mygame\obj\Debug\mygame.csproj.GenerateResource.cache
+D:\vishal project\mygame\mygame\obj\Debug\mygame.csproj.CoreCompileInputs.cache
+D:\vishal project\mygame\mygame\obj\Debug\mygame.exe
+D:\vishal project\mygame\mygame\obj\Debug\mygame.pdb
+G:\vishal tigga project\vishal project\mygame\mygame\bin\Debug\mygame.exe
+G:\vishal tigga project\vishal project\mygame\mygame\bin\Debug\mygame.pdb
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.csproj.AssemblyReference.cache
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.Form1.resources
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.Properties.Resources.resources
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.csproj.GenerateResource.cache
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.csproj.CoreCompileInputs.cache
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.exe
+G:\vishal tigga project\vishal project\mygame\mygame\obj\Debug\mygame.pdb
